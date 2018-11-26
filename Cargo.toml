@@ -1,0 +1,7 @@
+[package]
+name = "java-parser"
+version = "0.1.0"
+authors = ["Scott Raine <me@nylar.io>"]
+
+[dependencies]
+nom = "3.2.1"
